@@ -21,6 +21,7 @@ textarea{
         border-bottom: 10px solid black;
 }
 
+
 .description{
         white-space: pre-wrap;
 }
@@ -71,4 +72,9 @@ textarea{
 }
 .input-group-text {
         padding: 5px;
+        text-align: left;
 }
+.form-control {
+        border: solid 1px;
+}
+
